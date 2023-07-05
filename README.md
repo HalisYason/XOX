@@ -1,5 +1,5 @@
 # XOX
 
---> TİK TAK TOE
+## TİK TAK TOE
 
-- terminal üzerinden çalışan bir oyun
+- *terminal üzerinden çalışan bir oyun.*
