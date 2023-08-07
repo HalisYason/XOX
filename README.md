@@ -1,9 +1,9 @@
 
-## TİK TAK TOE
+## TICK TOCK TOE
 
-- *terminal üzerinden çalışan bir oyun.*
+- *game that works through the terminal.*
 
-## özellik
-- oyun tahtası çok boyutlu arrray ile yapıldı.
-- kazanma durumları da çok boyutlu array üzerinden çıkarıldı ve kodun içine yazıldı.
+## feature
+- the game board is made with multi-dimensional array.
+- winning situations were also extracted from the multidimensional array and written into the code.
 # 
